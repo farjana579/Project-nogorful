@@ -34,7 +34,7 @@ const donor = {
     name:"Julekha Begum",
     phone:01678946574,
     address : "GEC",
-    Salary: 250000;
+    Salary: 250000
 }
 
 
@@ -45,5 +45,6 @@ const child = {
     fatherName: "Rahim uddin",
     address : "Sholoshor",
     parentsPhone:01678908523,
-    study: "xyz school";
+    study: "xyz school"
 }
+ 
