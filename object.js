@@ -29,7 +29,7 @@ const teacher = {
 
 
 //object for one child one donor
-const donor = {
+const childDonor = {
     id:01,
     name:"Julekha Begum",
     phone:01678946574,
@@ -47,4 +47,31 @@ const child = {
     parentsPhone:01678908523,
     study: "xyz school"
 }
+
+//object for event
+
+const event = {
+     name:"Eid event",
+     place: "CRB",
+     noOfAttendance:300
+}
+
+//object for swablombi
+
+
+const donor = {
+    id:01,
+    name:"Faraz Karim",
+    phone:01678946574,
+    address : "Raozan",
+    donatedItem:"Rickshaw"
+}
+
+const receiver = {
+    id:01,
+    name:"Sakib",
+    phone:01938548678,
+    recievedItem : "Rickshaw"
+}
+console.log(receiver.recievedItem)
  
