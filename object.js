@@ -23,8 +23,6 @@ const teacher = {
     mail:"fahimfoishal@cu.com",
     address:"Hamzarbag",
     joinDate:"11-10-2020"
-
-
 }
 
 
@@ -53,25 +51,27 @@ const child = {
 const event = {
      name:"Eid event",
      place: "CRB",
-     noOfAttendance:300
+     noOfAttendance:300,
+     description:"Through Nogorgul project events,they try spread happiness among the helpless people.The events of Project Nogorful are - Eid event,donate quilt during winter etc.This type of events are organized by Nogorful organizer.Their motive is to put smile on helpless people."
 }
 
 //object for swablombi
 
-
-const donor = {
+const   donor = {
     id:01,
     name:"Faraz Karim",
     phone:01678946574,
     address : "Raozan",
-    donatedItem:"Rickshaw"
+    donatedItem:"Rickshaw",
 }
 
-const receiver = {
+   const receiver = {
     id:01,
     name:"Sakib",
     phone:01938548678,
     recievedItem : "Rickshaw"
 }
-console.log(receiver.recievedItem)
- 
+     
+
+
+  
